@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohit Das.
-- 👀 I’m interested in ... Cloud Computing and Machine Learning.
+- 👀 I’m interested in ... Data Analytics and Machine Learning.
 - 🌱 I’m currently learning python and mysql.
 - 📫 Reach me at email~ niturani.mohit@gmail.com.
 <!---
